@@ -1,0 +1,19 @@
+D:\Projects\CSharpPrograms\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\XOClientXamarin.dll
+D:\Projects\CSharpPrograms\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\XOClientXamarin.pdb
+D:\Projects\CSharpPrograms\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpPrograms\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.dll
+D:\Projects\CSharpPrograms\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.pdb
+D:\Projects\CSharpPrograms\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.dll.mdb
+D:\Projects\CSharpPrograms\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\XOClientXamarin.dll.mdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\XOClientXamarin.dll
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\XOClientXamarin.pdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.dll
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.pdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\WebSockets.PCL.dll
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.dll.mdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\XOClientXamarin.dll.mdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Debug\XOClientXamarin.dll.mdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Debug\XOClientXamarin.dll.mdb

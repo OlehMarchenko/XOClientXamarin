@@ -1,0 +1,10 @@
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Release\XOClientXamarin.dll
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Release\XOClientXamarin.pdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Release\Newtonsoft.Json.dll
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Release\WebSockets.PCL.dll
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Release\Newtonsoft.Json.xml
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Release\XOClientXamarin.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Release\XOClientXamarin.dll
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Release\XOClientXamarin.pdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\obj\Release\XOClientXamarin.dll.mdb
+D:\Projects\CSharpPrograms\ORT\Other solutions\XOClientXamarin\XOClientXamarin\XOClientXamarin\bin\Release\XOClientXamarin.dll.mdb
